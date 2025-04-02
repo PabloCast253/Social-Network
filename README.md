@@ -58,7 +58,7 @@ POST /api/thoughts/:thoughtId/reactions – Add a reaction
 DELETE /api/thoughts/:thoughtId/reactions/:reactionId – Remove a reaction
 
 ##📽️ Walkthrough Video
-link:
+link: https://app.screencastify.com/v3/watch/bwcrRR9hejng4WxKCvHT
 
 ##🛠️ Future Improvements
 JWT authentication
